@@ -1,0 +1,10 @@
+html, body, #_dash-app-content, #react-entry-point, #_dash-global-error-container {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#_dash-global-error-container > * {
+    height: 100%;
+    /* autres styles... */
+}

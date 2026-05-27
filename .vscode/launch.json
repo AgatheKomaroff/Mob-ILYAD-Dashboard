@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug Dashboatd with uv",
+            "type": "python",
+            "request": "launch",
+            "program": "uv",
+            "args": ["run", "dashboard/main.py"],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        }
+    ]
+}
